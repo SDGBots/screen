@@ -62,6 +62,9 @@ You can also join the [discuss group](https://t.me/SCP_079_CHAT) if you are unsu
 * [Google discussion group](https://groups.google.com/forum/#!forum/hakyll)
 * [Hakyll on StackOverflow](https://stackoverflow.com/questions/tagged/hakyll)
 
+## Credit
+This is a fork (forked on 1/26/2021 PST) of the repo from scp-079 (https://github.com/scp-079) project.
+
 ## License
 
 This theme is under [GPLv3](LICENSES/GPL-3.0).
